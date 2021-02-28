@@ -63,7 +63,7 @@ if menu == "A NEW USER":
             #CODE
             
         except IndexError:
-                st.write("SORRY! THE WINE IS NOT PRESENT IN OUR DATA")
+                st.write("SORRY! THE Book IS NOT PRESENT IN OUR DATA")
     else:
         st.write("""### TRY THE MOST POPULAR BOOKS:""")
         st.write("1. Harry Potter and the Order of the Phoenix (Book 5)")
